@@ -1,2 +1,2 @@
 # RuleNg
-an easy rule  engine framwork in Java /简单的Java规则引擎
+an easy rule  engine framwork in Java 一套简单的Java规则引擎框架
